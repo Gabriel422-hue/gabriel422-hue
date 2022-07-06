@@ -1,23 +1,22 @@
 ### Hi there 👋 I'm Gabriel Victor
 Computer engineering student, passionate about technology 
 
-- 🔭 I’m currently working on back-end
+- 🔭 I have affinity with the backend
 - 🌱 I’m currently learning front-end, JS and React
 
 <div align="center">
- <a href="https://github.com/gabriel422-hue">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel422-hue&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel422-hue&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
  
- <div style="display: inline_block"><br>
-   <img align="center" alt="gabriel-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-   <img align="center" alt="gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">        <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">                <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
-</div>
- 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/gabriel422-hue">
+<img src="https://github-readme-stats.vercel.app/api?username=gabriel422-hue&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="gabriel422-hue GitHub stats" /></a>
+
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel422-hue&layout=compact&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true"/>
+
+
+<a href="http://www.github.com/gabriel422-hue"><img src="https://activity-graph.herokuapp.com/graph?username=gabriel422-hue&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
 ##
   
 <div>
