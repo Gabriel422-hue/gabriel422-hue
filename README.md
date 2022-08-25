@@ -14,7 +14,6 @@ Computer engineering student, passionate about technology
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel422-hue&layout=compact&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true"/>
 
 
-<a href="http://www.github.com/gabriel422-hue"><img src="https://activity-graph.herokuapp.com/graph?username=gabriel422-hue&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 ##
